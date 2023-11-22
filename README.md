@@ -1,2 +1,2 @@
 # NextJS-Dashboard
-A tutorial on how NextJS works
+Working on a tutorial on how NextJS works
